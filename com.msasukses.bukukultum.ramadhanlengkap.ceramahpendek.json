@@ -1,0 +1,287 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "KULTUM 1",
+      "image": "file:///android_asset/image/KL1.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "KULTUM 2",
+      "image": "file:///android_asset/image/KL2.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "KULTUM 3",
+      "image": "file:///android_asset/image/KL3.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "KULTUM 1",
+      "title": "Rindunya Hati Akan Kedatangan Bulan Ramadhan",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "KULTUM 1",
+      "title": "Ramadhan dan Keteladanan",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR2.html"
+    },
+	{
+      "id": 3,
+      "name_category": "KULTUM 1",
+      "title": "Tentang Sedekah",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR3.html"
+    },
+	{
+      "id": 4,
+      "name_category": "KULTUM 1",
+      "title": "Ikhlas dalam Beribadah",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "KULTUM 1",
+      "title": "Orang yang Merugi di Bulan Puasa",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR5.html"
+    },
+	{
+      "id": 6,
+      "name_category": "KULTUM 1",
+      "title": "Tentang Bersyukur",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "KULTUM 1",
+      "title": "8 Keutamaan Puasa yang Luar Biasa",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "KULTUM 1",
+      "title": "Orang yang Boleh Tidak Puasa Ramadhan dan Cara Menggantinya",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "KULTUM 1",
+      "title": "Hal yang Membuat Puasa Sia-Sia",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "KULTUM 1",
+      "title": "Puasa Berkualitas",
+      "image": "file:///android_asset/image/KL1.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR10.html"
+    },
+	{
+      "id": 11,
+      "name_category": "KULTUM 2",
+      "title": "Hakikat dan Keutamaan Sabar",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "KULTUM 2",
+      "title": "Rahasia di Balik Makna Doa Buka Puasa",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR12.html"
+    },
+	{
+      "id": 13,
+      "name_category": "KULTUM 2",
+      "title": "Keutamaan Berbagi di Bulan Puasa",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR13.html"
+    },
+	{
+      "id": 14,
+      "name_category": "KULTUM 2",
+      "title": "Perbuatan yang Harus Dijauhi Para Perindu Surga",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR14.html"
+    },
+	{
+      "id": 15,
+      "name_category": "KULTUM 2",
+      "title": "Keutamaan Merahasiakan Sedekah",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR15.html"
+    },
+	{
+      "id": 16,
+      "name_category": "KULTUM 2",
+      "title": "Tiga Jenis Hati Manusia",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR16.html"
+    },
+	{
+      "id": 17,
+      "name_category": "KULTUM 2",
+      "title": "Keteguhan Iman yang Mengagumkan",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR17.html"
+    },
+	{
+      "id": 18,
+      "name_category": "KULTUM 2",
+      "title": "Keutamaan Memperbanyak Bacaan Dzikir",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR18.html"
+    },
+	{
+      "id": 19,
+      "name_category": "KULTUM 2",
+      "title": "Manajemen Waktu Muslim Sejati",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR19.html"
+    },
+	{
+      "id": 20,
+      "name_category": "KULTUM 2",
+      "title": "I’tikaf Momen Rehab Hati di Bulan Suci",
+      "image": "file:///android_asset/image/KL2.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR20.html"
+    },
+	{
+      "id": 21,
+      "name_category": "KULTUM 3",
+      "title": "Manfaat Membaca Al-Qur’an dan Puasa",
+      "image": "file:///android_asset/image/KL3.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR21.html"
+    },
+    {
+      "id": 22,
+      "name_category": "KULTUM 3",
+      "title": "Hadits Menyegerakan Berbuka Puasa",
+      "image": "file:///android_asset/image/KL3.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR22.html"
+    },
+	{
+      "id": 23,
+      "name_category": "KULTUM 3",
+      "title": "Al-Qur’an Diturunkan Pada Bulan Ramadhan",
+      "image": "file:///android_asset/image/KL3.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR23.html"
+    },
+	{
+      "id": 24,
+      "name_category": "KULTUM 3",
+      "title": "Meraih Malam Lailatul Qadar",
+      "image": "file:///android_asset/image/KL3.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR24.html"
+    },
+	{
+      "id": 25,
+      "name_category": "KULTUM 3",
+      "title": "Malam Lailatul Qadar",
+      "image": "file:///android_asset/image/KL3.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR25.html"
+    },
+	{
+      "id": 26,
+      "name_category": "KULTUM 3",
+      "title": "Zakat Fitrah",
+      "image": "file:///android_asset/image/KL3.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR26.html"
+    },
+	{
+      "id": 27,
+      "name_category": "KULTUM 3",
+      "title": "Memakmurkan Masjid Seperti Bulan Puasa",
+      "image": "file:///android_asset/image/KL3.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR27.html"
+    },
+	{
+      "id": 28,
+      "name_category": "KULTUM 3",
+      "title": "Doa Akhir Ramadhan",
+      "image": "file:///android_asset/image/KL3.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR28.html"
+    },
+	{
+      "id": 29,
+      "name_category": "KULTUM 3",
+      "title": "Hari Lebaran 4 Adab Ini Jangan Dilupakan",
+      "image": "file:///android_asset/image/KL3.jpg",
+      "description": "CERAMAH KULTUMRAMADHAN LENGKAP SAU BULAN PENUH",
+      "link": "file:///android_asset/guide/KR29.html"
+    }
+  ]
+}
