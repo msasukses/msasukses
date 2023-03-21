@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "LESTI A",
+      "image": "file:///android_asset/image/BLA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "LESTI B",
+      "image": "file:///android_asset/image/BLB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "LESTI A",
+      "title": "INSAN BIASA",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU1.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 2,
+      "name_category": "LESTI A",
+      "title": "SEKALI SEUMUR HIDUP",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU2.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 3,
+      "name_category": "LESTI A",
+      "title": "LENTERA",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU3.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 4,
+      "name_category": "LESTI A",
+      "title": "BAWA AKU KE PENGHULU",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU4.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 5,
+      "name_category": "LESTI A",
+      "title": "BISMILLAH CINTA",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU5.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 6,
+      "name_category": "LESTI A",
+      "title": "KELEPAS DENGAN IKHLAS",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU6.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 7,
+      "name_category": "LESTI A",
+      "title": "TIRANI",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU7.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 8,
+      "name_category": "LESTI A",
+      "title": "TAKDIR CINTA",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU8.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 9,
+      "name_category": "LESTI A",
+      "title": "LEBIH DARI SELAMANYA",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU9.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 10,
+      "name_category": "LESTI A",
+      "title": "SAAT TERAKHIR",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "LESTI A",
+      "title": "KEJORA",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU11.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "LESTI A",
+      "title": "ADA CERITA",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU12.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 13,
+      "name_category": "LESTI A",
+      "title": "AKU PERGI",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU13.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 14,
+      "name_category": "LESTI A",
+      "title": "PURNAMA",
+      "image": "file:///android_asset/image/BLA.jpg",
+      "link_mp3": "mp3/LADULESRU14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "LESTI B",
+      "title": "ASAL KAU BAHAGIA",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU15.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 16,
+      "name_category": "LESTI B",
+      "title": "BUKA MATA HATI",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "LESTI B",
+      "title": "CINTA",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU17.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "LESTI B",
+      "title": "EGOIS",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "LESTI B",
+      "title": "JANJI",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU19.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "LESTI B",
+      "title": "KEHILANGAN",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "LESTI B",
+      "title": "KERAMAT",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU21.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "LESTI B",
+      "title": "MATI GAYA",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "LESTI B",
+      "title": "SAKHA",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU23.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "LESTI B",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "LESTI B",
+      "title": "ZAPIN MELAYU",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "LESTI B",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU26.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "LESTI B",
+      "title": "GERIMIS MELANDA HATI",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU27.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 28,
+      "name_category": "LESTI B",
+      "title": "ITIROF",
+      "image": "file:///android_asset/image/BLB.jpg",
+      "link_mp3": "mp3/LADULESRU28.mp3",
+      "lyrics": ""
+	}
+  ]
+}
