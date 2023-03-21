@@ -1,0 +1,445 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "KUTBAH JUMAT",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "KEUTAMAAN BULAN SYABAN",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH1.html"
+    },
+    {
+      "id": 2,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "KEUTAMAAN PUASA SABYAN",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH2.html"
+    },
+	{
+      "id": 3,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Menyambut Bulan Ramadhan",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH3.html"
+    },
+	{
+      "id": 4,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Kewajiban Puasa Ramadhan dan Hal Yang Harus Dijaga",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH4.html"
+    },
+	{
+      "id": 5,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Agar Hidup Penuh Berkah & Barokah di Dunia",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH5.html"
+    },
+	{
+      "id": 6,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Agar Doa Terkabul dan Tidak Tertolak",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH6.html"
+    },
+	{
+      "id": 7,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Gunakan 5 Perkara Sebelum 5 Perkara",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH7.html"
+    },
+	{
+      "id": 8,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Sebaik-Baik Manusia Adalah Yang Paling Bermanfaat",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH8.html"
+    },
+	{
+      "id": 9,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Keutamaan Menyantuni Anak Yatim",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH9.html"
+    },
+	{
+      "id": 10,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "BAHAYA MENYIA NYIAKAN WAKTU",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH10.html"
+    },
+	{
+      "id": 11,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Generasi Terbaik Umat Islam",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH11.html"
+    },
+    {
+      "id": 12,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "7 Golongan Yang Mendapat Naungan Allah",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH12.html"
+    },
+	{
+      "id": 13,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Istidraj Dalam Al-Quran Dan As-Sunnah",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH13.html"
+    },
+	{
+      "id": 14,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Hidup Sederhana & Urgensinya Dalam Islam",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH14.html"
+    },
+	{
+      "id": 15,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Mujaharah Dan Bahayanya Dalam Islam",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH15.html"
+    },
+	{
+      "id": 16,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Pengaruh Dosa Dan Maksiat Kepada Manusia",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH16.html"
+    },
+	{
+      "id": 17,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Husnudzan Kepada Allah & Buahnya Bagi Muslim",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH17.html"
+    },
+	{
+      "id": 18,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Islam Secara Kaffah Bukan Setengah-Setengah",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH18.html"
+    },
+	{
+      "id": 19,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Luasnya Rahmat Allah, Mengharap, & Kiat Menggapainya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH19.html"
+    },
+	{
+      "id": 20,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Sifat Tamak – Bahaya Rakus Terhadap Harta dan Obatnya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH20.html"
+    },
+	{
+      "id": 21,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Amal Jariyah Amal Yang Tidak Terputus Setelah Meninggal",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH21.html"
+    },
+    {
+      "id": 22,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Tentang Ilmu Yang Bermanfaat",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH22.html"
+    },
+	{
+      "id": 23,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Mujaharah Dan Bahayanya Dalam Islam",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH23.html"
+    },
+	{
+      "id": 24,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Rasa Malu Dalam Islam",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH24.html"
+    },
+	{
+      "id": 25,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Bahaya Riya, Dan Tips Terlepas Darinya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH25.html"
+    },
+	{
+      "id": 26,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Hakikat Ikhlas",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH26.html"
+    },
+	{
+      "id": 27,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Ciri Orang Bertakwa & Buah Ketakwaan",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH27.html"
+    },
+	{
+      "id": 28,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Syukur dalam Kehidupan Seorang Muslim",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH28.html"
+    },
+	{
+      "id": 29,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Tentang Sabar, Pengertian Keutamaan, Urgensi, & Buahnya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH29.html"
+    },
+	{
+      "id": 30,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Keutamaan Ridha Kepada Allah dan Buahnya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH30.html"
+    },
+	{
+      "id": 31,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Hakikat Tawakkal, Keutamaan & Buahnya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH31.html"
+    },
+    {
+      "id": 32,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Mahabbah Cinta Allah",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH32.html"
+    },
+	{
+      "id": 33,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Keutamaan Dzikir",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH33.html"
+    },
+	{
+      "id": 34,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Tentang Tafakkur, Urgensi, Keutamaan & Buahnya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH34.html"
+    },
+	{
+      "id": 35,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Kezaliman Dalam Timbangan Islam",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH35.html"
+    },
+	{
+      "id": 36,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Sebab Kehancuran Sebuah Peradaban Suatu Bangsa",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH36.html"
+    },
+	{
+      "id": 37,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Mempersiapkan Bekal Sebelum Kematian",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH37.html"
+    },
+	{
+      "id": 38,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Bekerja Adalah Ibadah Dalam Islam sesuai Quran Sunnah",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH38.html"
+    },
+	{
+      "id": 39,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Bahaya Memakan Harta Haram & Cara Terbebas darinya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH39.html"
+    },
+	{
+      "id": 40,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Jabatan Adalah Amanah & Larangan Meminta Jabatan",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH40.html"
+    },
+	{
+      "id": 41,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Belajar dari Lebah Yang Penuh Pelajaran",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH41.html"
+    },
+    {
+      "id": 42,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Kedudukan Ibu Dalam Islam & Bentuk Bakti kepada Mereka",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH42.html"
+    },
+	{
+      "id": 43,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Keutamaan Birrul Walidain Berbakti Kepada Orang Tua",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH43.html"
+    },
+	{
+      "id": 44,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Kisah Keutamaan Uwais Al Qarni & Hikmahnya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH44.html"
+    },
+	{
+      "id": 45,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Keutamaan Sedekah & Waktu Terbaik Melakukannya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH45.html"
+    },
+	{
+      "id": 46,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Cara Mencetak Anak Sholeh & Keutamannya Dalam Islam",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH46.html"
+    },
+	{
+      "id": 47,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Bahaya Penyakit Hati, Tanda-Tanda & Cara Mengobatinya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH47.html"
+    },
+	{
+      "id": 48,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Pentingnya Menyambung Silaturahmi & Keutamaannya",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH48.html"
+    },
+	{
+      "id": 49,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Musuh Orang Beriman Dalam Al-Quran Al-Karim",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH49.html"
+    },
+	{
+      "id": 50,
+	  "name_category": "KUTBAH JUMAT",
+      "title": "Hikmah Dibalik Musibah",
+      "image": "file:///android_asset/image/KHU.jpg",
+      "description": "KUTBAH JUMAT LENGKAP 1 TAHUN",
+      "link": "file:///android_asset/guide/KH50.html"
+    }
+  ]
+}
