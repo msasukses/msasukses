@@ -1,0 +1,271 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "KULTUM",
+      "image": "file:///android_asset/image/KL.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "KULTUM",
+      "title": "PERMULAAN BULAB RAMADHAN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU1.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 2,
+      "name_category": "KULTUM",
+      "title": "MENYAMBUT BULAN RAMADHAN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU2.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 3,
+      "name_category": "KULTUM",
+      "title": "ADA APA DENGAN SAHUR",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU3.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 4,
+      "name_category": "KULTUM",
+      "title": "ADAB BERBUKA PUASA",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU4.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 5,
+      "name_category": "KULTUM",
+      "title": "AMALAN YANG SIA SIA",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU5.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 6,
+      "name_category": "KULTUM",
+      "title": "ARTI KATA RAMADHAN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU6.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 7,
+      "name_category": "KULTUM",
+      "title": "BERUSAHA AGAR TIDAK MISKIN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU7.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 8,
+      "name_category": "KULTUM",
+      "title": "DZIKIR DAN KETENANGAN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU8.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 9,
+      "name_category": "KULTUM",
+      "title": "UJIAN KEIMANAN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU9.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 10,
+      "name_category": "KULTUM",
+      "title": "JANGAN MELALAIKAN WAKTU",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "KULTUM",
+      "title": "KEBAIKAN ALLAH",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU11.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "KULTUM",
+      "title": "KEISTIMEWAAN BULAN RAMADHAN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU12.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 13,
+      "name_category": "KULTUM",
+      "title": "KEMULIAAN ORANG BERPUASA",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU13.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 14,
+      "name_category": "KULTUM",
+      "title": "KENAPA KITA HARUS PUASA",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "KULTUM",
+      "title": "KEUTAMAAN SEDEKAH",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU15.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 16,
+      "name_category": "KULTUM",
+      "title": "MANUSIA PALING ALLAH CINTA",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "KULTUM",
+      "title": "MEMULIAKAN RAMDHAN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU17.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "KULTUM",
+      "title": "MENJELANG BUKA PUASA",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "KULTUM",
+      "title": "MERUGI DALAM PUASA",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU19.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "KULTUM",
+      "title": "ITU BERKAH",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "KULTUM",
+      "title": "PERTOLONGAN ALLAH",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU21.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "KULTUM",
+      "title": "PESAN RASUL TENTANG RAMADHAN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "KULTUM",
+      "title": "PUASA DAN PEMBENTUKAN AKHLAK",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU23.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "KULTUM",
+      "title": "PUASA",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "KULTUM",
+      "title": "RAMADHAN DAN TAHJUD",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "KULTUM",
+      "title": "HILANGNYA PAHALA PUASA",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU26.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "KULTUM",
+      "title": "SEMUA AKTIVITAS ADALAH IBADAH",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU27.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 28,
+      "name_category": "KULTUM",
+      "title": "3 MALAM INTI RAMADHAN",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU28.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 29,
+      "name_category": "KULTUM",
+      "title": "ZAKAT INFAQ",
+      "image": "file:///android_asset/image/KL.jpg",
+      "link_mp3": "mp3/KUDARU29.mp3",
+      "lyrics": ""
+	}
+  ]
+}
