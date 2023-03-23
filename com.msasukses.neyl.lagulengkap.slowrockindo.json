@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "NEYL",
+      "image": "file:///android_asset/image/NY.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SLOW ROCK",
+      "image": "file:///android_asset/image/SR.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "NEYL",
+      "title": "KECEWA",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO1.mp3",
+      "lyrics": "<p>Sedikit waktu yang kau miliki<br />Luangkanlah untukku<br />Harap secepatnya datangi aku<br />SHadirin kali ini ku mohon padamu<br />Ada yang ingin ku sampaikan<br />Sempatkanlah</p><p><br />Hampa kesal dan amarah<br />SHadirin luruhnya ada dibenakku<br />Tandai seketika<br />Hati yang tak terbalas<br />Oleh cintamu</p><p><br />Kuingin marah, melampiaskan tapi kuhanyalah sendiri disini<br />Ingin kutunjukkan pada siapa saja yang ada<br />Bahwa hatiku kecewa</p><p><br />Sedetik menunggumu disini, sHadirin perti seharian<br />Berkali kulihat jam ditangan<br />Demi membunuh waktu<br />Tak kulihat tanda kehadiranmu<br />Yang semakin meyakiniku</p><p><br />Kuingin marah, melampiaskan tapi kuhanyalah sendiri disini<br />Ingin kutunjukkan pada siapa saja yang ada<br />Bahwa hatiku kecewa</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "NEYL",
+      "title": "DIBELAKANGKU",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO2.mp3",
+      "lyrics": "<p>Kau peluk aku<br />Sebelum membunuhku<br />Tersenyum melihatku<br />Merenung melihatmu</p><p><br />Kau menungguku<br />Menunggu kuterjatuh<br />Setiap langkah tertuju<br />Setia dalam renungku</p><p><br />Aku<br />Menunggumu<br />Menunggumu<br />Menunggumu</p><p><br />Mati<br />Di depanku<br />Di depanku<br />Di depanku</p><p>Apa yang kau lakukan di belakangku<br />Mengapa tak kau tunjukkan<br />Dihadapanku</p><p><br />Apa yang kau lakukan di belakangku<br />Di belakangku<br />Di belakangku<br />Di belakangku<br />Di belakangku</p><p><br />Aku<br />Menunggumu<br />Menunggumu<br />Menunggumu</p><p><br />Mati<br />Di depanku<br />Di depanku<br />Di depanku</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "NEYL",
+      "title": "TENTANG CINTA",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO3.mp3",
+      "lyrics": "<p>Sekilas tentang dirimu<br />Yang lama ku nanti<br />Memikat hatiku<br />Jumpamu pertama kali<br />Janji yang pernah terucap<br />Tuk satukan hati kita<br />Namun tak pernah terjadi</p><p><br />Mungkinkah masih ada waktu<br />Yang tersisa untukku<br />Mungkinkah masih ada cinta di hatimu</p><p><br />Andaikan saja aku tahu<br />Kau tak hadirkan cintamu<br />Inginku melepasmu dengan pelukan</p><p><br />Sesal yang datang selalu<br />Takkan membuatmu kembali<br />Maafkan aku yang tak pernah tahu<br />Hingga semuanya pun kini tlah berlalu</p><p><br />Maafkan aku<br />Maafkan aku</p><p><br />Mungkinkah masih ada waktu<br />Yang tersisa untukku<br />Mungkinkah masih ada cinta di hatimu</p><p><br />Andaikan saja aku tahu<br />Kau tak hadirkan cintamu</p><p><br />Inginku melepasmu dengan pelukan<br />Mungkinkah masih ada waktu<br />Yang tersisa untukku<br />Mungkinkah masih ada cinta di hatimu<br />Andaikan saja aku tahu<br />Kau tak hadirkan cintamu<br />Inginku melepasmu dengan pelukan<br />Inginku melepasmu dengan pelukan</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "NEYL",
+      "title": "TETAP DALAM JIWA",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO4.mp3",
+      "lyrics": "<p>Tak pernah terbayang akan jadi seperti ini pada akhirnya<br />Semua waktu yang pernah kita lewati bersama nyata hilang dan sirna<br />Hitam Putih berlalu<br />Janji kita menunggu<br />Tapi kita tak mampu<br />Seribu satu cara kita lewati tuk dapatkan semua jawaban ini</p><p><br />Bila memang harus berpisah<br />Aku akan tetap setia<br />Bila memang ini ujungnya<br />Kau kan tetap ada di dalam jiwa<br />tak bisa tuk teruskan<br />Dunia kita berbeda<br />Bila memang ini ujungnya<br />Kau kan tetap ada di dalam jiwa</p><p><br />Memang tak mudah tapi ku tegar menjalani kosong nya hati<br />Buanglah mimpi kita yang pernah terjadi tersimpan tuk jadi history</p><p><br />Hitam Putih berlalu<br />Janji kita menunggu<br />Tapi kita tak mampu<br />Seribu satu cara kita lewati tuk dapatkan semua jawaban ini</p><p><br />Bila memang harus berpisah<br />Aku akan tetap setia<br />Bila memang ini ujungnya<br />Kau kan tetap ada di dalam jiwa<br />Tak bisa tuk teruskan<br />Dunia kita berbeda<br />Kau kan tetap ada di dalam jiwa</p><p><br />Bila memang ini ujungnya<br />Kau kan tetap ada di dalam jiwa</p>"
+    },
+    {
+      "id": 5,
+      "name_category": "NEYL",
+      "title": "PESAWAT TEMPUR",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO5.mp3",
+      "lyrics": "<p>Waktu kau lewat<br />Aku sedang mainkan gitar<br />Sebuah lagu yang kunyanyikan<br />Tentang dirimu</p><p><br />Seperti kemarin<br />Kamu hanya lemparkan senyum<br />Lalu pergi begitu saja<br />Bagai pesawat tempur</p><p><br />Hei kau yang manis<br />Singgahlah dan ikut bernyanyi<br />Sebentar saja nona<br />Sebentar saja hanya sebentar</p><p><br />Rayuan mautku<br />Tak membuat kau jadi galak<br />Bagai seorang diplomat ulung<br />Engkau mengelak</p><p><br />Kalau saja aku bukanlah penganggur<br />Sudah kupacari kau<br />Jangan bilang tidak bilang saja iya<br />Iya lebih baik daripada kau menangis</p><p><br />Penguasa penguasa<br />Berilah hambamu uang<br />Beri hamba uang<br />Beri hamba uang</p><p><br />Penguasa penguasa<br />Berilah hambamu uang<br />Beri hamba uang<br />Beri hamba uang</p><p><br />Penguasa penguasa<br />Berilah hambamu uang<br />Beri hamba uang<br />Beri hamba uang</p><p><br />Penguasa penguasa<br />Berilah hambamu uang<br />Beri hamba uang<br />Beri hamba uang</p>"
+    },
+    {
+      "id": 6,
+      "name_category": "NEYL",
+      "title": "PANGGUN SANDIWARA",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO6.mp3",
+      "lyrics": "<p>Dunia ini panggung sandiwara<br />Ceritanya mudah berubah<br />Kisah Mahabharata<br />Atau tragedi dari Yunani</p><p><br />Setiap kita dapat satu peranan<br />Yang harus kita mainkan<br />Ada peran wajar<br />Ada peran berpura-pura</p><p><br />Mengapa kita bersandiwara<br />Mengapa kita bersandiwara</p><p><br />Peran yang kocak bikin kita terbahak-bahak<br />Peran bercinta bikin orang mabuk kepayang</p><p><br />Dunia ini penuh peranan<br />Dunia ini bagaikan jembatan kehidupan<br />Mengapa kita bersandiwara<br />Mengapa kita bersandiwara<br />Mengapa kita bersandiwara<br />Mengapa kita bersandiwara<br />Mengapa kita bersandiwara<br />Mengapa kita bersandiwara</p>"
+    },
+    {
+      "id": 7,
+      "name_category": "NEYL",
+      "title": "CINTA KITA",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO7.mp3",
+      "lyrics": "<p>Jangan dengarkan orang bicara<br />Jangan ikuti orang mengarah<br />Mereka cuma sirik sama kita</p><p><br />Percuma omongan orang dipercaya<br />Percuma banyak mulut-mulut berbisa<br />Mereka hanya sirik dengan cinta<br />Oh cinta kita</p><p><br />Cinta kita tak kan terbelah<br />Walau banyak cerita cerita<br />Yang gak mengasyikan</p><p><br />Cinta kita tak kan terpecah<br />Walau penuh kisah dan kisah<br />Yang coba tuk menghancurkan kita</p><p><br />Cinta kita tak kan terbelah<br />Walau banyak cerita cerita<br />Yang gak mengasyikan</p><p><br />Cinta kita tak kan terpecah<br />Walau penuh kisah dan kisah<br />Yang coba tuk menghancurkan kita</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "NEYL",
+      "title": "BINTANG KEHIDUPAN",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO8.mp3",
+      "lyrics": "<p>Jenuh aku mendengar<br />Manisnya kata cinta<br />Lebih baik sendiri</p><p><br />Bukannya sekali<br />Seringku mencoba<br />Namun kugagal lagi</p><p><br />Mungkin nasib ini<br />Suratan tanganku<br />Harus tabah menjalani</p><p><br />Jauh sudah melangkah<br />Menyusuri hidupku<br />Yang penuh tanda tanya</p><p><br />Kadang hati bimbang<br />Menentukan sikapku<br />Tiada tempat mengadu</p><p><br />Hanya iman di dada<br />Yang membuatku mampu<br />Slalu tabah menjalani</p><p><br />Malam malam aku sendiri<br />Tanpa cintamu lagi<br />Hanya satu keyakinanku<br />Bintang kan bersinar<br />Menerpa hidupku<br />Bahagia kan datang</p><p><br />Malam malam aku sendiri<br />Tanpa cintamu lagi<br />Hanya satu keyakinanku<br />Bintang kan bersinar<br />Menerpa hidupku<br />Bahagia kan datang</p>"
+    },
+    {
+      "id": 9,
+      "name_category": "NEYL",
+      "title": "AKU MILIKMU",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO9.mp3",
+      "lyrics": "<p>Terdengar lirih bisikanmu<br />Diantara bayang-bayangmu<br />Terucap kata cinta<br />Yang dulu tersimpan<br />Dan tak mau pergi</p><p><br />Sekejap cinta terlahir<br />Namun jadi sebuah cerita<br />Yang tak mungkin terlupa<br />Kuukir dihati<br />Dan tak mau pergi</p><p><br />Mungkinkah kumiliki<br />Cinta seperti ini lagi<br />Jangan biarkan aku<br />Kehilangan dirimu</p><p><br />Coba dengarkanlah sumpahku<br />Dari hati aku cinta kamu<br />Jangan dengar kata mereka<br />Yang tak ingin kita satu<br />Yakinkan aku milikmu<br />Aku milikmu</p><p><br />Jalinan cinta tulus suci<br />Terpadu terikat erat<br />Jangan terpisah lagi<br />Waktu kan menguji<br />Cinta kita berdua</p><p><br />Mungkinkah kumiliki<br />Cinta seperti ini lagi<br />Jangan biarkan aku<br />Kehilangan dirimu</p><p><br />Coba dengarkanlah sumpahku<br />Dari hati aku cinta kamu<br />Jangan dengar kata mereka<br />Yang tak ingin kita satu<br />Yakinkan aku milikmu<br />Aku milikmu</p><p><br />Mungkinkah kumiliki<br />Cinta seperti ini lagi<br />Jangan biarkan aku<br />Kehilangan dirimu</p><p><br />Coba dengarkanlah sumpahku<br />Dari hati aku cinta kamu<br />Jangan dengar kata mereka<br />Yang tak ingin kita satu<br />Yakinkan aku milikmu<br />Aku milikmu</p><p><br />Coba dengarkanlah sumpahku<br />Dari hati aku cinta kamu<br />Jangan dengar kata mereka<br />Yang tak ingin kita satu<br />Yakinkan aku milikmu<br />Aku milikmu<br />Aku milikmu</p>"
+    },
+    {
+      "id": 10,
+      "name_category": "NEYL",
+      "title": "ANTARA KITA",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO10.mp3",
+      "lyrics": "<p>Jauh sudah aku telah mengenal dirimu<br />Engkaupun tahu itu<br />Ku rasakan ada satu asa kau pendam<br />Yang tak engkau ungkapkan</p><p><br />Kata cinta telah ku ucapkan<br />Sampai kapan kau mampu bertahan</p><p><br />Biarkanlah cinta antara kita<br />Lepaskanlah rasa saling curiga</p><p><br />Izinkanlah ku kan bercerita padamu<br />Tentang jalan hidupku hm<br />Ku ingin kau selami dan mau mengerti<br />Apa yang ku damba<br />Keraguan dan juga prasangka<br />Hilangkanlah dari hati kita</p><p><br />Biarkanlah cinta antara kita<br />Lepaskanlah rasa saling curiga<br />Biarkanlah cinta antara kita<br />Lepaskanlah rasa saling curiga</p><p><br />Biarkanlah cinta antara kita<br />Lepaskanlah rasa saling curiga<br />Biarkanlah cinta antara kita</p>"
+    },
+    {
+      "id": 11,
+      "name_category": "NEYL",
+      "title": "BILA ENGKAU IJINKAN",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO11.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 12,
+      "name_category": "NEYL",
+      "title": "BUKAN PENGEMIS CINTA",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO12.mp3",
+      "lyrics": "<p>Aku bukan pengemis cinta<br />Yang slalu harus mengalah<br />Bila diputuskan cinta<br />Dari sang kekasih</p><p><br />Wanita bukan engkau saja<br />Yang ada dalam dunia<br />Cantik bukanlah utama<br />Menghiasi jiwa</p><p><br />Persetan dengan cinta<br />Persetan dengan janji<br />Kalau harus menyakiti<br />Persetan dengan sumpah<br />Persetan dengan wajah<br />Kalau harus menderita</p><p><br />Aku bukan pengemis cinta<br />Yang slalu harus mengalah<br />Bila diputuskan cinta<br />Dari sang kekasih</p><p><br />Patah hati bukan sifatnya lelaki<br />Apalagi sampai nekat bunuh diri<br />Putus cinta itu soal yang biasa<br />Aku tak putus asa</p><p><br />Jangan kau sangka aku akan menderita<br />Bila putus bercinta</p><p><br />Aku bukan pengemis cinta<br />Yang slalu harus mengalah<br />Bila diputuskan cinta<br />Dari sang kekasih</p><p>Aku bukan pengemis cinta</p>"
+    },
+    {
+      "id": 13,
+      "name_category": "NEYL",
+      "title": "LEPAS",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO13.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 14,
+      "name_category": "NEYL",
+      "title": "MAWAR MERAH",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO14.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 15,
+      "name_category": "NEYL",
+      "title": "SEKALI LAGI",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO15.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 16,
+      "name_category": "NEYL",
+      "title": "UNTUK MANTAN",
+      "image": "file:///android_asset/image/NY.jpg",
+      "link_mp3": "mp3/DONEYRO16.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 17,
+      "name_category": "SLOW ROCK",
+      "title": "BAWALAH AKU",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO17.mp3",
+      "lyrics": "<p>Kuberlari-lari di atas langit biru<br />Hangat mentari ramah memelukku<br />Kusapa sang angin yang belai rambutku<br />Basuhkan peluh keringat di tubuhku</p><p><br />Batasmu yang tak pernah habis janganlah habis<br />Selalu timbulkan sejuk di mataku<br />Misteri yang kau simpan debarkan jantungku<br />Biarkan aku dalam dekapanmu</p><p><br />bawalah aku<br />Selalu ke langit biru<br />Tinggalkan aku di sini<br />Biarkan aku nikmati<br />Belaian mesra mentari<br />Hangatkan jiwaku ini<br />Kan kucumbu indah wajahmu<br />Puaskan rasa hatiku</p><p><br />Oh bawalah aku<br />Selalu ke langit biru<br />Tinggalkan aku di sini<br />Biarkan aku nikmati<br />Belaian mesra mentari<br />Hangatkan jiwaku ini<br />Kan kucumbu indah wajahmu<br />Puaskan rasa hatiku</p><p><br />Oh bawalah aku<br />Selalu ke langit biru<br />Tinggalkan aku di sini<br />Biarkan aku nikmati<br />Belaian mesra mentari<br />Hangatkan jiwaku ini<br />Kan kucumbu indah wajahmu<br />Puaskan rasa hatiku</p><p><br />Biarkan kubernyanyi<br />Di langit biru oh</p>"
+    },
+    {
+      "id": 18,
+      "name_category": "SLOW ROCK",
+      "title": "BAYANGAN",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO18.mp3",
+      "lyrics": "<p>Sunyinya malam kian mencekam<br />Menambah kegelisahan<br />Ingin kuraih satu peranan</p><p><br />Dalam kehidupan ini<br />Namun ku tak mampu menyingkirkan<br />Segala keraguan ini</p><p><br />Terbayang selalu masa yang silam<br />Yang penuh penderitaan<br />Kucoba lagi untuk melangkah<br />Dengan darah yang tersisa<br />Masih adakah secercah harapan<br />Tuk menyingkap problema ini</p><p><br />Hanya bayangan ada di depanku<br />Ingin kulalui namun aku tak berdaya<br />Mimpi-mimpi selalu menghantui<br />Menyiksa batinku hancurkan kehidupanku</p><p><br />Tuhan tolonglah hambaMu ini<br />Tuhan tunjukkan jalanku ini<br />Tunjukkan segala harapan</p><p><br />Masih adakah secercah harapan<br />Tuk menyingkap problema ini</p><p><br />Hanya bayangan ada di depanku<br />Ingin kulalui namun aku tak berdaya<br />Mimpi-mimpi selalu menghantui<br />Menyiksa batinku hancurkan kehidupanku</p><p><br />Hanya bayangan ada di depanku<br />Ingin kulalui namun aku tak berdaya<br />Mimpi-mimpi selalu menghantui<br />Menyiksa batinku hancurkan kehidupanku</p>"
+    },
+    {
+      "id": 19,
+      "name_category": "SLOW ROCK",
+      "title": "KISAH SEORANG PRAMURIA",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO19.mp3",
+      "lyrics": "<p>Mengapa di dunia ini<br />Selalu menertawai<br />Hidupku yang hina ini<br />Berteman dengan seorang gadis</p><p><br />Mengapa semua manusia<br />Menghina kehidupannya<br />Mencari nafkah hidupnya<br />Sbagai seorang pramuria</p><p><br />Semua itu tiada arti bagiku<br />Kuanggap s'bagai penguji imanku<br />Kiranya Tuhan jadi saksi hidupku<br />Betapa sucinya jalinan cintaku</p><p><br />Walaupun hinaan ini<br />Ditujukan pada diriku<br />Namun ku slalu tersenyum<br />Karena cintaku suci padanya</p><p><br />Semua itu tiada arti bagiku<br />Kuanggap sbagai penguji imanku<br />Kiranya Tuhan jadi saksi hidupku<br />Betapa sucinya jalinan cintaku</p><p><br />Walaupun hinaan ini<br />Ditujukan pada diriku<br />Namun ku slalu tersenyum<br />Karena cintaku suci padanya</p><p><br />Namun ku slalu tersenyum<br />Karena cintaku suci padanya</p>"
+    },
+    {
+      "id": 20,
+      "name_category": "SLOW ROCK",
+      "title": "MALAM INI",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO20.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 21,
+      "name_category": "SLOW ROCK",
+      "title": "SALAM UNTUK DIA",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO21.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 22,
+      "name_category": "SLOW ROCK",
+      "title": "SANGGUPKAH AKU",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO22.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 23,
+      "name_category": "SLOW ROCK",
+      "title": "SATU RASA",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO23.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 24,
+      "name_category": "SLOW ROCK",
+      "title": "SATU SENYUM SAJA",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO24.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 25,
+      "name_category": "SLOW ROCK",
+      "title": "SEMUT HITAM",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO25.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 26,
+      "name_category": "SLOW ROCK",
+      "title": "SENDIRI",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO26.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 27,
+      "name_category": "SLOW ROCK",
+      "title": "SIRNA",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO27.mp3",
+      "lyrics": "lirik belum tersedia"
+    },
+    {
+      "id": 28,
+      "name_category": "SLOW ROCK",
+      "title": "SETAN TERTAWA",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO28.mp3",
+      "lyrics": "<p>Pahlawan berkata dengan air mata<br />Perjuanganku terbuang percuma<br />Keserakahan kini merajalela<br />Segala derita dimana-mana</p><p><br />Wahai Tuhan yang berwajah bijaksana<br />Ajar kami untuk berkarya<br />Perhatikan generasi kaum muda<br />Semangat empat lima kami percaya</p><p><br />Ibu tertawa bagaikan orang gila<br />Anak dijual sangat murahnya<br />Harga diri dibuang asalkan harta<br />Setan tertawa gembira</p><p><br />Mereka lupa<br />Tuhan ada<br />Setan tertawa<br />Berpesta pora</p><p><br />Bawa lagu yang berkata<br />Hamba takut masuk neraka<br />Bawa lagu yang berkata<br />Hamba takut masuk neraka</p><p><br />Mereka lupa<br />Tuhan ada<br />Setan tertawa<br />Berpesta pora</p><p><br />Mereka lupa<br />Tuhan ada<br />Setan tertawa</p>"
+    },
+    {
+      "id": 29,
+      "name_category": "SLOW ROCK",
+      "title": "SUNGGUH",
+      "image": "file:///android_asset/image/SR.jpg",
+      "link_mp3": "mp3/DONEYRO29.mp3",
+      "lyrics": "lirik belum tersedia"
+    }
+  ]
+}
