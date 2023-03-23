@@ -1,0 +1,316 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BARU",
+      "image": "file:///android_asset/image/BD.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "VIRAL",
+      "image": "file:///android_asset/image/BV.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "BARU",
+      "title": "SENGKUNI LEDA LEDE",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p>Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong eh nong ji nong ro<br />Nong eh nong ji nong ro<br />Nong eh nong ji nong ro<br />Nong eh nong ji nong ro</p><p><br />Senja di desa Baron<br />Matahari tenggelam di dalam kemaron<br />Lembu betina lari melompat-lompat<br />Dikejar-kejar anaknya yang kecil meloncat<br />Senja lucu dengan kasih sayang ibu dan anak<br />Langit senja mengandung sapi beranak<br />Terpesona Ranto melihat<br />Ia tertawa bergelak<br />Dan berubah jadi Ranto Gudel<br />Sang pelawak Dadi Marmoyo<br />Di panggung ketoprak<br />Ranto Gudel meminum arak<br />Terendam di dalam ciu<br />Birahinya berubah jadi biru<br />Diajaknya Nyai Dasima bercinta<br />Dengan cinta sepahit topi Miringnya<br />Layar dibuka turun hujan gembukan</p><p><br />Dewi Mlenuk jembuk datang<br />Membawa seguling roti cakwe<br />Marmoyo rebah terguling tidur<br />Di pangkuan Nyai Dasima<br />Yang sekeras ciu cangkol buah dadanya<br />Ke mana Ranto Gudel pergi<br />Panggung selalu harum dengan arak yang wangi<br />Di Sriwedari jadi petruk<br />Garengnya diajak mabuk<br />Begongnya menggeloyor<br />Semar jualan ciu cangkol<br />Dengan terang lampu semprong<br />Pak Mloyo memukul kenong<br />Nong ji nong ro nong ji nong</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro</p><p><br />Giginya ompong menggerong<br />Ranto Gudel Mendehem nyungsep<br />Thuyul gundhul ke sana sini mengempit gendul<br />Gendruwo thela-thelo tampak loyo<br />Jlangkong jalannya miring-miring eh dhoyong</p><p><br />Belum selesai menabuh<br />Nong ji nong ro<br />Pak Mloyo terguling ke Bengawan Solo<br />Dengan irama alunan nong ji nong ro<br />Pak Mloyo pulang jalannya geloyoran</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Ranto Gudel meminum arak bekonang<br />Mengantar gadis pulang berdandan bidan<br />Roknya putih bajunya putih<br />Serba putih lebih daripada peri</p><p><br />Tiba di pinggir kali<br />Ranto Gudel diajak belok ke kiri<br />Dhemit elek aYu tenan<br />Ngumpat Ranto Gudel geram<br />Ia marah terendam arak bekonang</p><p><br />Hampir saja aku bercinta dengan setan<br />Cinta manusia seperti Umbul Beking<br />Dulu bening sekarang keruh<br />Ranto Gudel dengan empat istrinya<br />Tak pernah abadi cintanya</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro</p><p><br />Memang enak jadi wedhus daripada manusia<br />Bila mati dikubur di gundukan tanah<br />Kepalanya dikencingi wedhus yang merumput<br />Nasib manusia hanya sengsara</p><p><br />Oh mengapa kita mesti bersusah<br />Coba hiduplah seperti Ki Joko Lelur<br />Siangnya melamun me-minum limun<br />Malam beranjak bangun minum berminum</p><p><br />Lapen ciu cangkol arak bekonang dituang<br />Botol cangkol dipasangnya setiap sudut rumah<br />Apa guna tuk takut tikus-tikus rupanya<br />Oh mengenang bayangan di masa tuanya<br />Ciu cangkol hanyalah spiritus tuk usir tikus<br />Padahal dulu ku meminumnya sampai mampus</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro</p>"
+	},
+    {
+      "id": 2,
+      "name_category": "BARU",
+      "title": "CINTAMU SEPAHIT TOPI MIRING",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p>Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro</p><p><br />Senja di desa Baron<br />Matahari tenggelam di dalam kemaron<br />Lembu betina lari melompat-lompat<br />Dikejar-kejar anaknya yang kecil meloncat<br />Senja lucu dengan kasih sayang ibu dan anak<br />Langit senja mengandung sapi beranak<br />Terpesona Ranto melihat<br />Ia tertawa bergelak<br />Dan berubah jadi Ranto Gudel<br />Sang pelawak Dadi Marmoyo<br />Di panggung ketoprak<br />Ranto Gudel meminum arak<br />Terendam di dalam ciu<br />Birahinya berubah jadi biru<br />Diajaknya Nyai Dasima bercinta<br />Dengan cinta sepahit topi Miringnya<br />Layar dibuka turun hujan gembukan<br />Dewi Mlenuk jembuk datang<br />Membawa seguling roti cakwe<br />Marmoyo rebah terguling tidur<br />Di pangkuan Nyai Dasima<br />Yang sekeras ciu cangkol buah dadanya<br />Ke mana Ranto Gudel pergi<br />Panggung selalu harum dengan arak yang wangi<br />Di Sriwedari jadi petruk<br />Garengnya diajak mabuk<br />Begongnya menggeloyor<br />Semar jualan ciu cangkol<br />Dengan terang lampu semprong<br />Pak Mloyo memukul kenong<br />Nong ji nong ro nong ji nong</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro</p><p><br />Giginya ompong menggerong<br />Ranto Gudel Mendehem nyungsep<br />Thuyul gundhul ke sana sini mengempit gendul<br />Gendruwo thela-thelo tampak loyo<br />Jlangkong jalannya miring-miring eh dhoyong</p><p><br />Belum selesai menabuh<br />Nong ji nong ro<br />Pak Mloyo terguling ke Bengawan Solo<br />Dengan irama alunan nong ji nong ro<br />Pak Mloyo pulang jalannya geloyoran</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Ranto Gudel meminum arak bekonang<br />Mengantar gadis pulang berdandan bidan<br />Roknya putih bajunya putih<br />Serba putih lebih daripada peri</p><p><br />Tiba di pinggir kali<br />Ranto Gudel diajak belok ke kiri<br />Dhemit elek aYu tenan<br />Ngumpat Ranto Gudel geram<br />Ia marah terendam arak bekonang</p><p><br />Hampir saja aku bercinta dengan setan<br />Cinta manusia seperti Umbul Beking<br />Dulu bening sekarang keruh<br />Ranto Gudel dengan empat istrinya<br />Tak pernah abadi cintanya</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro</p><p><br />Memang enak jadi wedhus daripada manusia<br />Bila mati dikubur di gundukan tanah<br />Kepalanya dikencingi wedhus yang merumput<br />Nasib manusia hanya sengsara</p><p><br />Oh mengapa kita mesti bersusah<br />Coba hiduplah seperti Ki Joko Lelur<br />Siangnya melamun me-minum limun<br />Malam beranjak bangun minum berminum</p><p><br />Lapen ciu cangkol arak bekonang dituang<br />Botol cangkol dipasangnya setiap sudut rumah<br />Apa guna tuk takut tikus-tikus rupanya<br />Oh mengenang bayangan di masa tuanya<br />Ciu cangkol hanyalah spiritus tuk usir tikus<br />Padahal dulu ku meminumnya sampai mampus</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro</p><p><br />Sengkuni leda-lede<br />Mimpin baris ngarep dhewe<br />Eh barisane menggok<br />Sengkuni kok malah ndheprok</p><p><br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro<br />Nong nong ji nong ro</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "BARU",
+      "title": "KALIH WELASKU",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": "<p>Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni</p><p><br />Doyo doyo ngganduli<br />Doyo doyo nangisi</p><p><br />Kesandung-sandung aku<br />Maksane atimu</p><p><br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p><br />Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni</p><p><br />Doyo doyo ngganduli<br />Doyo doyo nangisi</p><p><br />Kesandung-sandung aku<br />Maksane atimu</p><p><br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p><br />Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni</p><p><br />Doyo doyo ngganduli<br />Doyo doyo nangisi</p><p><br />Kesandung-sandung aku<br />Maksane atimu</p><p><br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p>"
+	},
+	{
+      "id": 4,
+      "name_category": "BARU",
+      "title": "KEHILANGANMU BERAT BAGIKU",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": "<p>Sampai matipun engkau takkan ku lepaskan<br />Akan ku jaga seumur hidupku<br />Beribu puisi yang ku untaikan untukmu<br />Inginku selalu memiliki kamu</p><p><br />Jangan pernah kau sakiti aku lagi<br />Cobalah untuk lengkapi hidupku<br />Ku ingin menjaga dirimu<br />Tak akan pernah ku sakiti kamu</p><p><br />Ku mohon temanilah aku<br />Jangan pernah rapuh di sepanjang umurmu<br />Ku mohon temanilah aku<br />Jangan pernah rapuh di sepanjang umurmu</p><p><br />Kehilanganmu sungguh berat bagiku<br />Hampa hidupku terasa tanpa kamu<br />Genggam tanganku dan jangan kau lepaskan<br />Karna ku tak sanggup hidup tanpa cintamu</p><p><br />Ku mohon temanilah aku<br />Jangan pernah rapuh di sepanjang umurmu<br />Ku mohon temanilah aku<br />Jangan pernah rapuh di sepanjang umurmu</p><p><br />Kehilanganmu sungguh berat bagiku<br />Hampa hidupku terasa tanpa kamu<br />Genggam tanganku dan jangan kau lepaskan<br />Karna ku tak sanggup hidup tanpa cintamu</p><p><br />Kehilanganmu sungguh berat bagiku<br />Hampa hidupku terasa tanpa kamu<br />Genggam tanganku dan jangan kau lepaskan<br />Karna ku tak sanggup hidup tanpa cintamu"
+	},
+	{
+      "id": 5,
+      "name_category": "BARU",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": "<p>Apalah arti cinta yang indah<br />Apalah arti cinta dan sayang<br />Slalu terhalang masalah lama<br />Tentang rasa percaya</p><p><br />Hati yang kujaga slalu<br />Untuk dirimu yang mengeluh<br />Tentang pribadi yang slalu salah<br />Di pandanganmu sayang</p><p><br />Tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak<br />Percayalah pada diriku<br />Ku kan slalu menjagamu<br />Hingga akhir hidupku</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu kau terlalu jauh<br />Sebenarnya aku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu</p><p><br />tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak<br />Percayalah pada diriku<br />Ku kan selalu menjagamu</p><p><br />Malam bantu aku luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu kau terlalu jauh<br />Sebenarnya aku tak seburuk itu diriku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu<br />Semata karna ku tak mampu hidup tanpamu"
+	},
+	{
+      "id": 6,
+      "name_category": "BARU",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": "<p>Mungkin<br />Aku terlalu cinta<br />Aku terlalu sayang<br />Nganti ra kroso dilarani</p><p><br />Pancen<br />Kuakui kusalah<br />Terlalu percoyo mergo<br />Mung nyawang rupo</p><p><br />Saiki aku wis sadar<br />Terlalu goblk mencintaimu</p><p><br />Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Saiki aku wis sadar<br />Terlalu goblk mencintaimu</p><p>Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Saiki aku wis sadar<br />Terlalu goblk mencintaimu</p><p><br />Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p>Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Stop mencintaimu<br />Gawe aku ngelu<br />Stop mencintaimu<br />Gawe aku ngelu"
+	},
+	{
+      "id": 7,
+      "name_category": "BARU",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": "<p>Jangan tanya bagaimana esok<br />Ku tak ingin menerka perasaan ini<br />Yang kutahu, hari ini ku mencintaimu<br />Yang kutahu, ku sangat menyayangimu</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku<br />Berjanjilah, Kasih, setia bersamaku<br />Berjanjilah, Kasih, setia bersamaku"
+	},
+	{
+      "id": 8,
+      "name_category": "BARU",
+      "title": "MANGKU PUREL",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": "<p>Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Kowe wes lali omah<br />Ora Uli Ulian<br />Senengane Dolan Neng Karaokean<br />Ngandengi Penyanyi<br />Ora Cukup Siji<br />Cekelane Botol<br />Polahe Koyo Wong Tolol</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu<br />Luweh penting Mikiro Masa depanmu"
+	},
+	{
+      "id": 9,
+      "name_category": "BARU",
+      "title": "SATRU 2",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": "<p>Wes tak pupuk winihe katresnanku, kanggo awakmu<br />Dungoku tuku lemu urip ayem kanggo senengmu</p><p><br />Aku percoyo winih tresnamu, nandes mancep ing atiku<br />Opo kurang leh ku ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Aku ngenteni, aku ngertenimu huooo<br />huoo&hellip; opo kurang lehku, ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atim"
+	},
+	{
+      "id": 10,
+      "name_category": "BARU",
+      "title": "KESUCIAN ATI",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p>Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p>Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati<br />Kesucian ati"
+	},
+	{
+      "id": 11,
+      "name_category": "BARU",
+      "title": "LEMBAH MANAH",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p>Aku seng gampang nesu<br />Tak jaluk ugo lembah manahmu<br />Ngerteni aku<br />Nyurteni karepku<br />Mergo tersno nesuku mung mergo rindu</p><p><br />Matur suwun <br />Wes gelem ngancani aku<br />Tekan sprene iso nompo kekuranganku<br />Anane mung ngene mung opo anane<br />Tak jaluk seng sugeh pangapurane</p><p><br />Matur suwun gusti mpun maringi seng gemati<br />Mugo selawase aku koe dadi siji<br />Yo mung koe seng manggon ono ing ati <br />Sak pedote nyowo bakal tak tresnani</p><p><br />Padange rembulan ra bakal iso ngganteni <br />Yo mung koe seng dadi kembange ati</p><p><br />Matur suwun <br />Wes gelem ngancani aku<br />Tekan sprene iso nompo kekuranganku<br />Anane mung ngene mung opo anane<br />Tak jaluk seng sugeh pangapurane</p><p><br />Matur suwun gusti mpun maringi seng gemati<br />Mugo selawase aku koe dadi siji<br />Yo mung koe seng manggon ono ing ati <br />Sak pedote nyowo bakal tak tresnani</p><p><br />Padange rembulan ra bakal iso ngganteni <br />Yo mung koe seng dadi kembange ati</p><p><br />Matur suwun <br />Wes gelem ngancani aku<br />Tekan sprene iso nompo kekuranganku<br />Anane mung ngene mung opo anane<br />Tak jaluk seng sugeh pangapurane</p><p><br />Matur suwun gusti mpun maringi seng gemati<br />Mugo selawase aku koe dadi siji<br />Yo mung koe seng manggon ono ing ati <br />Sak pedote nyowo bakal tak tresnani</p><p><br />Padange rembulan ra bakal iso ngganteni <br />Yo mung koe seng dadi kembange ati"
+	},
+    {
+      "id": 12,
+      "name_category": "BARU",
+      "title": "GANG DOLLY",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p>Kabeh pancen luputku<br />Ninggalake sliramu<br />Nganti nekat tanpo aku<br />Njegur nang lokalisasi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi<br />Ndang bali"
+	},
+	{
+      "id": 13,
+      "name_category": "BARU",
+      "title": "EGO",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p>Pangapuranen aku, tulus ojo kepekso<br />Bendino mung golek kesalahanmu<br />Aku cen klera kleru nresnani sliramu<br />Aku tak sing ngalah, aku ngaku salah</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan<br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben, masalah ben ora dowo"
+	},
+	{
+      "id": 14,
+      "name_category": "BARU",
+      "title": "NGOPI MASE",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "BARU",
+      "title": "RASAH BALI",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p>Opo ora ngerti roso ati iki<br />Bien kowe tau ngelarani<br />Tatu uwes mari ora arep baleni<br />Nimas aku uwes ora sudi</p><p><br />Wes sabendinane mung mikirke kowe<br />Mergo aku durung iso lilo<br />Aku ngaku salah kabeh dadi bubrah<br />Kangmas jujur aku wegah pisah</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Rungokno kangmas<br />Aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Ceritoku karo kowe uwes tak rampungi<br />Mas aku durung ikhlas delok kabeh iki<br />Cukup sewates konco aku karo kowe<br />Orasah bali aku wes ora sudi<br />Orasah bali aku wes ora sudi"
+	},
+	{
+      "id": 16,
+      "name_category": "BARU",
+      "title": "IH ABANG JAHAT",
+      "image": "file:///android_asset/image/BD.jpg",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "VIRAL",
+      "title": "AKU TERPIKAT DIRIMU",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "VIRAL",
+      "title": "ANGEL",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "VIRAL",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "VIRAL",
+      "title": "IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p>Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau"
+	},
+	{
+      "id": 21,
+      "name_category": "VIRAL",
+      "title": "INFONE MASE",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "VIRAL",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "VIRAL",
+      "title": "KOK ISO YO",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p>Kok iso yo<br />Kok tegel yo<br />Opo salahku<br />Ning endi luputku<br />Wong sing ra sepiro<br />Koyo aku iki<br />Masalah asmoro, mung kebagian loro</p><p><br />Ditinggal lungo, alesan ra cetho<br />Mergo ngaboti tresno anyarmu sing liyo<br />Gusti, tulung paringono<br />Ati sing kuat<br />Kanggo ngadepi asmoro ugal-ugalan</p><p><br />Wayah mongso udan tekoo<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo<br />Kok tegel yo<br />Wong koyo aku<br />Masalah asmoro, mung kebagian loro</p><p><br />Tibo wayah mongso udan teko<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p>Kok iso yo<br />Kok tegel yo<br />Wong koyo aku<br />Masalah asmoro, mung kebagian loro</p><p><br />Tibo wayah mongso udan teko<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine"
+	},
+	{
+      "id": 24,
+      "name_category": "VIRAL",
+      "title": "MISTER MENDEM",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "VIRAL",
+      "title": "RA ISO DADI SIJI",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "VIRAL",
+      "title": "RELA KAU TINGGALKAN",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "VIRAL",
+      "title": "RUNTAH",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p>Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju"
+	},
+	{
+      "id": 28,
+      "name_category": "VIRAL",
+      "title": "SANES",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p>Opo koe ra ngerti larane<br />Nalika pas aku kelangan koe<br />Ngancani mongso sepimu<br />Nuruti opo karepmu<br />Nyatane atimu<br />Dudu nggo aku</p><p><br />Arep o gedhene roso tresnoku<br />Sak jerome atiku dinggo sliramu<br />Yen udu sing dikarepke<br />Sanes sing dipingini<br />Durung sempet duweni<br />Pun kon ngikhlaske</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p>"
+	},
+	{
+      "id": 29,
+      "name_category": "VIRAL",
+      "title": "SAYANG AKU KECAPEKAN",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 30,
+      "name_category": "VIRAL",
+      "title": "SELEMBUT SALJU",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p>Seribu cinta yang selalu datang<br />Takan pernah ku mencoba hiraukan<br />Cintaku hanya kepadamu sayang<br />Sampai mati tak akan ku gantikan</p><p><br />Andaipun semuanya telah engkau tahu<br />Tak pernah kau coba hargai cintaku<br />Hatiku sebening embun selembut salju<br />Pernahkah kau rasakan semua itu</p><p><br />Kadang, Ku Juga mencoba merenung<br />Tentang, Dirimu yang selalu ku sanjung<br />Karena, Sulitnya dirimu oh sayang<br />Tentang semua sikapmu<br />Yang selalu menggawat</p><p><br />Seribu cinta yang selalu datang<br />Takan pernah ku mencoba hiraukan<br />Cintaku hanya kepadamu sayang<br />Sampai mati tak akan ku gantikan</p><p><br />Andaipun semuanya telah engkau tahu<br />Tak pernah kau coba hargai cintaku<br />Hatiku sebening embun selembut salju<br />Pernahkah kau rasakan semua itu</p><p><br />Kadang, Ku Juga mencoba merenung<br />Tentang, Dirimu yang selalu ku sanjung<br />Karena, Sulitnya dirimu oh sayang<br />Tentang semua sikapmu<br />Yang selalu menggawat</p><p><br />Seribu cinta yang selalu datang<br />Takan pernah ku mencoba hiraukan<br />Cintaku hanya kepadamu sayang<br />Sampai mati tak akan ku gantikan</p><p><br />Andaipun semuanya telah engkau tahu<br />Tak pernah kau coba hargai cintaku<br />Hatiku sebening embun selembut salju<br />Pernahkah kau rasakan semua itu</p><p><br />Kadang, Ku Juga mencoba merenung<br />Tentang, Dirimu yang selalu ku sanjung<br />Karena, Sulitnya dirimu oh sayang<br />Tentang semua sikapmu<br />Yang selalu menggawat</p><p><br />Seribu cinta yang selalu datang<br />Takan pernah ku mencoba hiraukan<br />Cintaku hanya kepadamu sayang<br />Sampai mati tak akan ku gantikan</p><p><br />Andaipun semuanya telah engkau tahu<br />Tak pernah kau coba hargai cintaku<br />Hatiku sebening embun selembut salju<br />Pernahkah kau rasakan semua itu"
+	},
+	{
+      "id": 31,
+      "name_category": "VIRAL",
+      "title": "TERLALU",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/31.mp3",
+      "lyrics": "<p>Aku terasa mati ditinggal kekasih<br />Tak pernah terpikir ini bisa terjadi<br />Aku terasa pilu saat kau berlalu<br />Hilang semua kisah cinta dalam hatiku</p><p><br />Cintaku padamu tlah setinggi langit<br />Namun kau tak merasakan<br />Sayangku padamu kan ku ingat slalu<br />Biar ku bawa sendiri</p><p><br />Aku tak bisa menahan langkah kakimu<br />Aku tak bisa menahan kepergianmu<br />Kamu terlalu telah dengan yang lain<br />Untuk hidupmu nanti</p><p><br />Aku tak bisa menahan air mataku<br />Aku tak bisa kesedihanku<br />Aku telah hancur hilang semua mimpiku</p><p><br />Cintaku padamu tlah setinggi langit<br />Namun kau tak merasakan<br />Sayangku padamu kan ku ingat slalu<br />Biar ku bawa sendiri<br />Aku tak bisa menahan langkah kakimu<br />Aku tak bisa menahan kepergianmu<br />Kamu terlalu telah dengan yang lain<br />Untuk hidupmu nanti</p><p><br />Aku tak bisa menahan kepedihanku<br />Aku tak bisa menahan air mataku<br />Hatiku tlah hancur hilang semua mimpiku<br />Untuk hidupmu nanti</p><p><br />Aku tak bisa menahan air mataku<br />Aku tak bisa kesedihanku<br />Aku telah hancur hilang semua mimpiku"
+	},
+    {
+      "id": 32,
+      "name_category": "VIRAL",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/32.mp3",
+      "lyrics": "<p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini</p><p><br />Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta engkau bisikkan kata azimat di telinga<br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan"
+	},
+	{
+      "id": 33,
+      "name_category": "VIRAL",
+      "title": "TKW",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/33.mp3",
+      "lyrics": "<p>Kala ku negri orang<br />Berjumpa dengan seorang wanita<br />Parasnya cantik, aduhai sangat menggoda<br />Kusapa dia tiada curiga</p><p><br />Kucoba tuk mendekati<br />Senyum simpulnya tak menaruh benci<br />Berbasa basi kumengenalkan dirinya<br />Dia TKW cantik jelita</p><p><br />Tenaga kerja wanita jauh di mancanegara<br />Asal punya ketrampilan oke saja</p><p><br />Tenaga kerja wanita jauh di mancanegara<br />Kaulah srikandi tumpuan keluarga<br />Pabila kau pulang di kampung halaman kecantikanmu akan selalu di kenang</p><p><br />Kucoba tuk mendekati senyum simpulnya tak menaruh benci<br />Berbasa basi kumengenalkan dirinya<br />Dia TKW cantik jelita</p><p><br />Disana beda bahasa juga berbeda budaya<br />Lindungilah dirimu iman dan taqwa</p><p><br />Jagalah martabat bangsa jujur syarat yang utama<br />Ingatlah engkau pahlawan devisa<br />Pabila kau pulang di kampung halaman<br />Kecantikanmu akan selalu dikenang</p><p><br />Kala ku negri orang<br />Berjumpa dengan seorang wanita<br />Parasnya cantik, aduhai sangat menggoda<br />Kusapa dia tiada curiga</p><p><br />Kucoba tuk mendekati<br />Senyum simpulnya tak menaruh benci<br />Berbasa basi kumengenalkan dirinya<br />Dia TKW cantik jelita<br />Dia TKW cantik jelita"
+	},
+	{
+      "id": 34,
+      "name_category": "VIRAL",
+      "title": "YANG PENTING HAPPY",
+      "image": "file:///android_asset/image/BV.jpg",
+      "link_mp3": "mp3/34.mp3",
+      "lyrics": ""
+	}
+  ]
+}
