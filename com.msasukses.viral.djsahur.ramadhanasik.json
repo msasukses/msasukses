@@ -1,0 +1,260 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ SAHUR",
+      "image": "file:///android_asset/image/DS.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ VIRAL",
+      "image": "file:///android_asset/image/DV.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ SAHUR",
+      "title": "DJ SAHUR WAKTUNYA SAHUR",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH1.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 2,
+      "name_category": "DJ SAHUR",
+      "title": "DJ SAHUR BAPAK BAPAK",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH2.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 3,
+      "name_category": "DJ SAHUR",
+      "title": "DJ RAMADHAN HEREG",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH3.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 4,
+      "name_category": "DJ SAHUR",
+      "title": "DJ RAMADHAN SAKERA",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH4.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 5,
+      "name_category": "DJ SAHUR",
+      "title": "DJ RAHMATUN LIL ALAMIN",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH5.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 6,
+      "name_category": "DJ SAHUR",
+      "title": "DJ ALLAH ALLAH AGHISNA",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH6.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 7,
+      "name_category": "DJ SAHUR",
+      "title": "DJ ALLAHUMA SHOLI ALA MUHAMMAD",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH7.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 8,
+      "name_category": "DJ SAHUR",
+      "title": "DJ QOLBU MUTAYYAM",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH8.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 9,
+      "name_category": "DJ SAHUR",
+      "title": "DJ ASYGHIL",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH9.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 10,
+      "name_category": "DJ SAHUR",
+      "title": "DJ BUSYROLANA",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "DJ SAHUR",
+      "title": "DJ DZUKUT WALALAN",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH11.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "DJ SAHUR",
+      "title": "DJ INNAL HABIBAL MUSTHOFA",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH12.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 13,
+      "name_category": "DJ SAHUR",
+      "title": "DJ LIR ILIR",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH13.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 14,
+      "name_category": "DJ SAHUR",
+      "title": "DJ MUGHROM",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "DJ SAHUR",
+      "title": "DJ ROBBI KHOLAQ THOHA",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH15.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 16,
+      "name_category": "DJ SAHUR",
+      "title": "DJ SLUKU SLUKU BATOK",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "DJ SAHUR",
+      "title": "DJ YA IMAMAR RUSLI",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH17.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "DJ SAHUR",
+      "title": "DJ YASIR LANA",
+      "image": "file:///android_asset/image/DS.jpg",
+      "link_mp3": "mp3/DNGUSAH18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "DJ VIRAL",
+      "title": "DJ AIYA SUSANTI",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/DNGUSAH19.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "DJ VIRAL",
+      "title": "DJ AKU TERPIKAT DIRIMU",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/DNGUSAH20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "DJ VIRAL",
+      "title": "DJ CINTAMU SEPAHIT TOPI MIRING",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/DNGUSAH21.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "DJ VIRAL",
+      "title": "DJ DE RA GO",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/DNGUSAH22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "DJ VIRAL",
+      "title": "DJ IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/DNGUSAH23.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "DJ VIRAL",
+      "title": "DJ JANJI JANJI SERIBU JANJI",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/DNGUSAH24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "DJ VIRAL",
+      "title": "DJ KOMANG",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/DNGUSAH25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "DJ VIRAL",
+      "title": "DJ SEMATA KARENAMU",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/DNGUSAH26.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "DJ VIRAL",
+      "title": "DJ SIAL",
+      "image": "file:///android_asset/image/DV.jpg",
+      "link_mp3": "mp3/DNGUSAH27.mp3",
+      "lyrics": ""
+	}
+  ]
+}
