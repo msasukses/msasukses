@@ -1,0 +1,244 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SHOLAWAT ORGEN",
+      "image": "file:///android_asset/image/SO.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT KOPLO",
+      "image": "file:///android_asset/image/SKL.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "ALLAH ALLAH AGHISNA",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO1.ogg",
+      "lyrics": ""
+	},
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "DOSO ORA KROSO",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO2.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 3,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "KIDUNG WAHYU KOLOSEBO",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO3.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 4,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "SABEN MALEM JUMAT",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO4.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 5,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO5.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 6,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "SYAIKHONA",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO6.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 7,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "SYIR TANPO WATON",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO7.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 8,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "TIBIL QULUB",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO8.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 9,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "TIKET SUARGO",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO9.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 10,
+      "name_category": "SHOLAWAT ORGEN",
+      "title": "TOMBO ATI",
+      "image": "file:///android_asset/image/SO.jpg",
+      "link_mp3": "mp3/SHOGENLO10.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "QOLBU MUTTAYAM",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO11.ogg",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "BISMILLAH",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO12.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 13,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "HUWANNUR",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO13.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 14,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "INNAL HABIBAL MUSTHOFA",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO14.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "ISYFALANA",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO15.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 16,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "ALLAHUL KAAFI",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO16.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "MAHALUL QIYAM",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO17.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO18.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "SADUNA FIDUNYA",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO19.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "SHOLAWAT BADAR",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO20.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "SHOLAWAT NARIYAH",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO21.ogg",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "YA ASYIQOL MUSTHOFA",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO22.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "YA BADROTIM",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO23.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "YA NABI SALAM ALAIKA",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO24.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "SHOLAWAT KOPLO",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/SKL.jpg",
+      "link_mp3": "mp3/SHOGENLO25.ogg",
+      "lyrics": ""
+	}
+  ]
+}
