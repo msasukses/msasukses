@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "VIRAL",
+      "image": "file:///android_asset/image/ADR.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/DL.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "VIRAL",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL1.mp3",
+      "lyrics": "<p>kuda yang mana kuda yang mana tuan senangi<br />kuda yang putih kuda yang putih didalam kandang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang</p><p><br />kuda yang mana kuda yang mana tuan senangi<br />kuda yang putih kuda yang putih didalam kandang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang<br />janda yang mana janda yang mana tuan senangi<br />janda yang putih janda yang putih berambut panjang</p><p><br />naik sepeda naik sepeda mati lampunya<br />jalan terus jalan terus lambat sampenya<br />ada janda ada janda mati lakinya<br />mau dilamar mau dilamar banyak anaknya<br />ada janda ada janda mati lakinya<br />mau dilamar mau dilamar banyak anaknya</p><p><br />bagaimana bagaimana menggoreng peda<br />ambil minyaknya ambil minyaknya tuang tuangkan<br />bagaimana bagaimana merayu janda<br />ambil anaknya ambil anaknya timang timangkan<br />bagaimana bagaimana merayu janda<br />ambil anaknya ambil anaknya timang timangkan</p><p><br />kampung krukut kampung krukut dipinggir kali<br />anak cina anak cina dan kawan kawan<br />hati takut hati takut jadi berani<br />lihat janda lihat janda kayak perawan<br />hati takut hati takut jadi berani<br />lihat janda lihat janda kayak perawan</p><p><br />kucing kurus kucing kurus mandi dipapan<br />papan dibawa papan dibawa dari marunda<br />badan kurus badan kurus bukan tak makan<br />kurus mikirin si janda muda<br />badan kurus badan kurus bukan tak makan<br />kurus mikirin si janda muda</p>"
+	},
+    {
+      "id": 2,
+      "name_category": "VIRAL",
+      "title": "IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL2.mp3",
+      "lyrics": "<p>Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau"
+	},
+	{
+      "id": 3,
+      "name_category": "VIRAL",
+      "title": "SAYUNK I LOVE U",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL3.mp3",
+      "lyrics": "<p>Asmara dilanda angin curiga<br />Sedia ribut tropika kan tiba<br />Siapa wanita yang kau bersama<br />Manjanya bertiktok tiktok berdua<br />Ala sweetnya</p><p><br />Rupanya kamu berdua saudara<br />Sepupu oh belah kakak emaknya<br />Kenapa awak tak cakap dari mula<br />Termarah emosiku tak sengaja<br />Sayunk sorrylah</p><p><br />Buah hati dinda<br />Cemburu tandanya<br />Kasih dan sayangku masih setia<br />Buah hati dinda<br />Yang paling ku damba<br />Hilangkanlah duka<br />Marilah sayang kita berdansa</p><p><br />Buah hati dinda<br />Cemburu tandanya<br />Kasih dan sayangku masih setia<br />Buah hati dinda<br />Yang paling ku damba<br />Hilangkanlah duka<br />Marilah sayang kita berdansa</p><p><br />Buah hati dinda<br />Cemburu tandanya<br />Kasih dan sayangku masih setia<br />Buah hati dinda<br />Yang paling ku damba<br />Hilangkanlah duka<br />Marilah sayang kita berdansa</p><p><br />Buah hati dinda<br />Cemburu tandanya<br />Kasih dan sayangku masih setia<br />Buah hati dinda<br />Yang paling ku damba<br />Hilangkanlah duka<br />Marilah sayang kita berdansa</p><p><br />Pesanku jangan buat hal selalu<br />Cukuplah dihatimu hanya aku<br />Terimalah seadanya diriku<br />Kalbuku berbunga bunga kernamu<br />Sayunk i love you<br />Sayunk i love you<br />Sayunk i love you</p>"
+	},
+	{
+      "id": 4,
+      "name_category": "VIRAL",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL4.mp3",
+      "lyrics": "<p>Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku<br />Berjanjilah, Kasih, setia bersamaku<br />Berjanjilah, Kasih, setia bersamaku"
+	},
+	{
+      "id": 5,
+      "name_category": "VIRAL",
+      "title": "SANES",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL5.mp3",
+      "lyrics": "<p>Opo koe ra ngerti larane<br />Nalika pas aku kelangan koe<br />Ngancani mongso sepimu<br />Nuruti opo karepmu<br />Nyatane atimu<br />Dudu nggo aku</p><p><br />Arep o gedhene roso tresnoku<br />Sak jerome atiku dinggo sliramu<br />Yen udu sing dikarepke<br />Sanes sing dipingini<br />Durung sempet duweni<br />Pun kon ngikhlaske</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "VIRAL",
+      "title": "TERLALU",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL6.mp3",
+      "lyrics": "<p>Aku terasa mati ditinggal kekasih<br />Tak pernah terpikir ini bisa terjadi<br />Aku terasa pilu saat kau berlalu<br />Hilang semua kisah cinta dalam hatiku</p><p><br />Cintaku padamu tlah setinggi langit<br />Namun kau tak merasakan<br />Sayangku padamu kan ku ingat slalu<br />Biar ku bawa sendiri</p><p><br />Aku tak bisa menahan langkah kakimu<br />Aku tak bisa menahan kepergianmu<br />Kamu terlalu telah dengan yang lain<br />Untuk hidupmu nanti</p><p><br />Aku tak bisa menahan air mataku<br />Aku tak bisa menahan kesedihanku<br />Aku telah hancur hilang semua mimpiku</p><p><br />Cintaku padamu tlah setinggi langit<br />Namun kau tak merasakan<br />Sayangku padamu kan ku ingat slalu<br />Biar ku bawa sendiri</p><p><br />Aku tak bisa menahan langkah kakimu<br />Aku tak bisa menahan kepergianmu<br />Kamu terlalu telah dengan yang lain<br />Untuk hidupmu nanti</p><p><br />Aku tak bisa menahan kepedihanku<br />Aku tak bisa menahan air mataku<br />Hatiku tlah hancur hilang semua mimpiku<br />Untuk hidupmu nanti</p><p><br />Aku tak bisa menahan air mataku<br />Aku tak bisa menahan kesedihanku<br />Aku telah hancur hilang semua mimpiku<br />Aku telah hancur hilang semua mimpiku</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "VIRAL",
+      "title": "RAISO DADI SIJI",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL7.mp3",
+      "lyrics": "<p>Aku tresno ro kowe<br />Tresno seng sak tenane<br />Kabeh wes tak kek'ke ro kowe<br />Atine</p><p><br />Senajan aku wes nduwe<br />Bojo seng sak tenane<br />Nanging aku tresnone yo mung ro kowe</p><p><br />Aku tresno ro kowe<br />Tresno seng sak tenane<br />Kabeh wes tak kek'ke ro kowe<br />Atine</p><p><br />Senajan aku wes nduwe<br />Bojo seng sak tenane<br />Nanging aku tresnone yo mung ro kowe</p><p><br />Roso ati ra tenang mikirke selingkuhan<br />Tansah tak awang2 mabur koyo layangan<br />Padahal bojo neng omah<br />Mikirke dadi susah<br />Opo seng kudu dilakoni<br />Aku bingung sendiri</p><p><br />Pancen tak akoni<br />Tresnoku setengah mati<br />Tapi aku ra wani<br />Ngingkari janji suci<br />Mungkin kowe udu jodoku<br />Tapi aku sayang padamu<br />Jujur seko jero atiku</p><p><br />Sayang aku ikhlas trimo dadi seng keloro<br />Nadyan abot roso tresno seng tak songgoooo</p><p><br />Sabar sak untoro sayang<br />Aku yo wes berjuang<br />Ndadekke ngimpi tenanan</p><p><br />Mugo kabeh iso lancar<br />Buang kabeh kenangan<br />Ikhlas lan sabar sayang</p><p><br />Cincin wes ngelingker neng jari manisku<br />Janji yo wes tak ucap neng ngarep penghulu<br />Saiki yo uwes telat arep ngomongke cidro<br />Aku mong ameh ndungo kowe iso bahagio</p><p><br />Senajan setatusku saiki ora dewe<br />Tapi ojo nganti leren tresnaku karo kowe<br />Mugo2 kabeh dikei dalan supoyo dadi padang<br />Anggone awak dewe lek gendakan</p><p><br />Sayang aku ikhlas trimo dadi seng keloro<br />Nadyan abot roso tresno seng tak songgoooo</p><p><br />Sabar sak untoro sayang<br />Aku yo wes berjuang<br />Ndadekke ngimpi tenanan</p><p><br />Mugo kabeh iso lancar<br />Buang kabeh kenangan<br />Ikhlas lan sabar sayang</p><p><br />Aku mung iso nerimo<br />Kowe gone wong liyo<br />Tresno raiso dipeksano</p><p><br />Aku tetep sayang kowe<br />Tekane sak lawase<br />Aku bahagia nyawang kowe</p><p><br />Tanganku wes ono cincin<br />Janji setio lan suci<br />Aku raiso nepati</p><p><br />Kowe pancen tak tresnani<br />Biyen tekan saiki<br />Tapi raiso dadi siji<br />Tapi raiso dadi siji</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "VIRAL",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL8.mp3",
+      "lyrics": "<p>Mungkin<br />Aku terlalu cinta<br />Aku terlalu sayang<br />Nganti ra kroso dilarani</p><p><br />Pancen<br />Kuakui kusalah<br />Terlalu percoyo mergo<br />Mung nyawang rupo</p><p><br />Saiki aku wis sadar<br />Terlalu goblk mencintaimu</p><p><br />Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Saiki aku wis sadar<br />Terlalu goblk mencintaimu</p><p>Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Saiki aku wis sadar<br />Terlalu goblk mencintaimu</p><p><br />Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p>Rungkad entek-entekan<br />Kelangan kowe sing paling tak sayang<br />Bondoku melayang, tego tenan<br />Tangis-tangisan</p><p><br />Rungkad entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Stop mencintaimu<br />Gawe aku ngelu<br />Stop mencintaimu<br />Gawe aku ngelu"
+	},
+	{
+      "id": 9,
+      "name_category": "VIRAL",
+      "title": "KALIH WELASKU",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL9.mp3",
+      "lyrics": "<p>Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni</p><p><br />Doyo doyo ngganduli<br />Doyo doyo nangisi</p><p><br />Kesandung-sandung aku<br />Maksane atimu</p><p><br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p><br />Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni</p><p><br />Doyo doyo ngganduli<br />Doyo doyo nangisi</p><p><br />Kesandung-sandung aku<br />Maksane atimu</p><p><br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p><br />Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni</p><p><br />Doyo doyo ngganduli<br />Doyo doyo nangisi</p><p><br />Kesandung-sandung aku<br />Maksane atimu</p><p><br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "VIRAL",
+      "title": "CERITO MUSTAHIL",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL10.mp3",
+      "lyrics": "<p>Aku wis tau<br />Ngrasakne jerune kedanan<br />Ngrasakne bundase kelaran<br />Ngrasakne nangisi ning ra ketaran</p><p><br />Aku ngiyani<br />Omongmu seng kesel jalani<br />Misal memang keputusanmu<br />Tak lilak-lilakne kelangan awakmu</p><p><br />Mung pengen ngandani<br />Sadar aku du seleramu saiki<br />Mung pengen negesi<br />Ati- ati yen kangen kabari</p><p><br />Ra maksane, niat gandeng mu ro aku<br />Cerito iki, cerito mustahil nggo aku<br />Karep ati mastekne kabeh senengmu<br />Ning sanding mu ra bakal ngilang<br />Kembang ngipi saben wengi<br />Ra nyongko luput tak nduweni<br />Mugo lungo ku , nglegakne atimu</p><p><br />Mung pengen ngandani<br />Sadar aku du seleramu saiki<br />Mung pengen negesi<br />Ati- ati yen kangen kabari</p><p><br />Ra maksane, niat gandeng mu ro aku<br />Cerito iki, cerito mustahil nggo aku<br />Karep ati mastekne kabeh senengmu<br />Ning sanding mu ra bakal ngilang<br />Kembang ngipi saben wengi<br />Ra nyongko luput tak nduweni<br />Mugo lungo ku , nglegakne atimu</p><p><br />Mung pengen ngandani<br />Sadar aku du seleramu saiki<br />Mung pengen negesi<br />Ati- ati yen kangen kabari</p><p><br />Ra maksane, niat gandeng mu ro aku<br />Cerito iki, cerito mustahil nggo aku<br />Karep ati mastekne kabeh senengmu<br />Ning sanding mu ra bakal ngilang<br />Kembang ngipi saben wengi<br />Ra nyongko luput tak nduweni<br />Mugo lungo ku , nglegakne atimu</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "VIRAL",
+      "title": "CINTA TAK DIRESTUI",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL11.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "VIRAL",
+      "title": "LENGAMU NINGGAL KENANGAN 2",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL12.mp3",
+      "lyrics": "<p>demi ayangku tak tulisne tembang rindu<br />lewat sepi wengi iki tak titipne roso kangenku</p><p><br />ora keroso netes iluh banyu moto <br />amergo kowe tego ninggal aku demi wong liyo</p><p><br />aku ikhlas aku lilo snajan ati iki loro<br />aku iklas aku lilo mugo, kowe biso bahagio</p><p><br />langit peteng katon mendung <br />kowe gawe aku bingung <br />arep njalok tulung <br />bingung angonku nembung</p><p><br />aku wes ikhlas berjuang<br />kowe bilang dada sayang <br />aku ora ngiro lungamu ninggal kenangan</p><p><br />demi ayangku tak tulisne tembang rindu<br />lewat sepi wengi iki tak titipne roso kangenku</p><p><br />ora keroso nete iluh banyu moto <br />amergo kowe tego ninggal aku demi wong liyo</p><p><br />aku ikhlas aku lilo snajan ati iki loro<br />aku iklas aku lilo mugo kowe biso bahagio</p><p><br />langit peteng katon mendung <br />kowe gawe aku bingung <br />arep njalok tulung <br />bingung angonku nembung</p><p><br />aku wes ikhlas berjuang <br />kowe bilang dada sayang <br />aku ora ngiro lungamu ninggal kenangan</p><p><br />langit peteng katon mendung <br />kowe gawe aku bingung <br />arep njalok tulung <br />bingung angonku nembung</p><p><br />aku wes ikhlas berjuang <br />kowe bilang dada sayang <br />aku ora ngiro lungamu ninggal kenangan <br />aku ora ngiro lungamu ninggal kenangan</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "VIRAL",
+      "title": "LEMBAH MANAH",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL13.mp3",
+      "lyrics": "<p>Aku seng gampang nesu<br />Tak jaluk ugo lembah manahmu<br />Ngerteni aku<br />Nyurteni karepku<br />Mergo tersno nesuku mung mergo rindu</p><p><br />Matur suwun <br />Wes gelem ngancani aku<br />Tekan sprene iso nompo kekuranganku<br />Anane mung ngene mung opo anane<br />Tak jaluk seng sugeh pangapurane</p><p><br />Matur suwun gusti mpun maringi seng gemati<br />Mugo selawase aku koe dadi siji<br />Yo mung koe seng manggon ono ing ati <br />Sak pedote nyowo bakal tak tresnani</p><p><br />Padange rembulan ra bakal iso ngganteni <br />Yo mung koe seng dadi kembange ati</p><p><br />Matur suwun <br />Wes gelem ngancani aku<br />Tekan sprene iso nompo kekuranganku<br />Anane mung ngene mung opo anane<br />Tak jaluk seng sugeh pangapurane</p><p><br />Matur suwun gusti mpun maringi seng gemati<br />Mugo selawase aku koe dadi siji<br />Yo mung koe seng manggon ono ing ati <br />Sak pedote nyowo bakal tak tresnani</p><p><br />Padange rembulan ra bakal iso ngganteni <br />Yo mung koe seng dadi kembange ati</p><p><br />Matur suwun <br />Wes gelem ngancani aku<br />Tekan sprene iso nompo kekuranganku<br />Anane mung ngene mung opo anane<br />Tak jaluk seng sugeh pangapurane</p><p><br />Matur suwun gusti mpun maringi seng gemati<br />Mugo selawase aku koe dadi siji<br />Yo mung koe seng manggon ono ing ati <br />Sak pedote nyowo bakal tak tresnani</p><p><br />Padange rembulan ra bakal iso ngganteni <br />Yo mung koe seng dadi kembange ati"
+	},
+	{
+      "id": 14,
+      "name_category": "VIRAL",
+      "title": "KEMBANG WANGI",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "VIRAL",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL15.mp3",
+      "lyrics": "<p>Saat bintang bertahta<br />Dan rembulan tersenyum manja<br />Di saat malam itu, kau dan aku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia, janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik sempurna dirimu<br />Begitu baiknya hatimu cintaku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia, janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik sempurna dirimu<br />Begitu baiknya hatimu cintaku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia, janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik sempurna dirimu<br />Begitu baiknya hatimu cintaku</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik sempurna dirimu<br />Begitu baiknya hatimu cintaku"
+	},
+	{
+      "id": 16,
+      "name_category": "VIRAL",
+      "title": "TKW",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "VIRAL",
+      "title": "MANGKU PUREL",
+      "image": "file:///android_asset/image/ADR.jpg",
+      "link_mp3": "mp3/MOLIDEL17.mp3",
+      "lyrics": "<p>Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Kowe wes lali omah<br />Ora Uli Ulian<br />Senengane Dolan Neng Karaokean<br />Ngandengi Penyanyi<br />Ora Cukup Siji<br />Cekelane Botol<br />Polahe Koyo Wong Tolol</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu Uuuu<br />Ojo Terusan Begitu uye uye<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu<br />Luweh penting Mikiro Masa depanmu"
+	},
+	{
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "GANG DOLLY",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL19.mp3",
+      "lyrics": "<p>Kabeh pancen luputku<br />Ninggalake sliramu<br />Nganti nekat tanpo aku<br />Njegur nang lokalisasi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age &ndash; age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi<br />Ndang bali"
+	},
+	{
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "KESUCIAN ATI",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL21.mp3",
+      "lyrics": "<p>Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p>Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Kesucian ati</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati<br />Kesucian ati"
+	},
+    {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "KOK SIO YO",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "KOYO JOGJA ISTIMEWA",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL23.mp3",
+      "lyrics": "<p>mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />rasah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong kang lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />ra usah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawoh sate<br />senajan sak anane sing penting ro kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />ra usah mecucu tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa</p><p>kowe siji sijine aku panggah karo kewe<br />gelem nompo opo anane tresnoku ra bakal mletre<br />kowe ojo sumelang tresnoku ra bakal ilang<br />koyo ibarat kuthoku jogja kowe cen istimewa"
+	},
+	{
+      "id": 24,
+      "name_category": "LENGKAP",
+      "title": "LALI JANJINE",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "LENGKAP",
+      "title": "NGOPI MASE",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "LENGKAP",
+      "title": "OJO DIBANGINDKE",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL26.mp3",
+      "lyrics": "<p>Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Jelas Bedo Yen Dibandingke<br />Ora Ono Sing Tak Pamerke<br />Aku Raiso Yen Kon Gawe Gawe<br />Jujur Sak Onone</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu<br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu"
+	},
+	{
+      "id": 27,
+      "name_category": "LENGKAP",
+      "title": "RUNTAH",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL27.mp3",
+      "lyrics": "<p>Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor<br />Naha kunaon nu bangor loba nu geulis<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah<br />Gebleg hirup daek jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju"
+	},
+	{
+      "id": 28,
+      "name_category": "LENGKAP",
+      "title": "SATRU 2",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL28.mp3",
+      "lyrics": "<p>Wes tak pupuk winihe katresnanku, kanggo awakmu<br />Dungoku tuku lemu urip ayem kanggo senengmu</p><p><br />Aku percoyo winih tresnamu, nandes mancep ing atiku<br />Opo kurang leh ku ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Aku ngenteni, aku ngertenimu huooo<br />huoo&hellip; opo kurang lehku, ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atim"
+	},
+	{
+      "id": 29,
+      "name_category": "LENGKAP",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/DL.jpg",
+      "link_mp3": "mp3/MOLIDEL29.mp3",
+      "lyrics": "<p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini</p><p><br />Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta engkau bisikkan kata azimat di telinga<br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan"
+	}
+  ]
+}
